@@ -1,6 +1,6 @@
 /**
  * Esta funcion recibe como parametro una URL y le se le setea valores 
- * para luego devolver un archivo blob de tipo PDF
+ * para luego devolver un archivo blob como un PDF formateado 
  **/
 function crearPdf(url) {
 
